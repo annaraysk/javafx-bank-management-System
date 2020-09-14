@@ -2,6 +2,7 @@
 javafx application for simulating online banking system
 
 Front-end : Javafx 
+
 Backend   : MySQL
 
 Javafx buttons and other widgets are used to develop front-end.
@@ -17,8 +18,10 @@ Table names and attributes are named so that it would be easier for anyone to un
 This project was developed as an academic project under guidance of teachers.
 
 Contributors :
+
 Sindhu Hachadad ( sindhuhachadad2000@gmail.com )
 - backend developer
+
 Annaray Kalashetty (annaraykalashetty1999@gmail.com )
 - front-end developer
 - backend integration.
